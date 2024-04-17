@@ -1,5 +1,5 @@
 ### Hi there 👋 my name Alik Makarov
-This repository create for learning neural network!
+This repository was created for learning how to create a neural network!
 <!--
 **Jaguar56/Jaguar56** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
