@@ -1,5 +1,4 @@
 ### Hi there 👋 my name Alik Makarov
-This repository was created for learning how to create a neural network!
 
  Обо мне:
 
