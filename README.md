@@ -18,8 +18,8 @@
 Прикладные навыки:
 знаю и применял на практике методологию БЭМ,
 работал с БД MySQL, Firebase,
-базовое знание React, Nestjs, Angular, Laravel
-базовое знание языков: JavaScript, TypeScript, PHP
+есть опыт работы с фреймворками: React, Nestjs, Laravel, Vue
+знание языков: JavaScript, TypeScript, PHP
 <!--
 **Jaguar56/Jaguar56** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
